@@ -5,7 +5,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Notes</title>
+  <title>9ine4our Notes</title>
   
   <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js"></script>
   <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-auth.js"></script>
@@ -58,7 +58,7 @@
 
 <!--<p id="status-message"></p>-->
     <form id="websiteForm">
-      <h3 class="text-center mt-3" style="font-size: 2rem;">Notes</h3>
+      <h3 class="text-center mt-3" style="font-size: 2rem;">9ine4our Notes</h3>
       <div class="row mb-1 align-items-center">
   <div class="col-auto">
     <label for="websiteName" class="form-label fw-bold" style="font-size: 0.8rem; font-weight: bold; margin-bottom: 0;">Title :</label>
